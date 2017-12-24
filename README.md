@@ -8,7 +8,7 @@ See http://cs.oswego.edu/~yxia/coursework/csc366/assignments/hps_essay.pdf for m
 see document at http://cs.oswego.edu/~yxia/coursework/csc366/assignments/hps_1.pdf
 
 # Execution
-call 'demo(N)' to run a collective demo for N random generated Crypto problems.
+call `demo(N)` to run a collective demo for N random generated Crypto problems.
 
 # Example Demo
 http://cs.oswego.edu/~yxia/coursework/csc366/assignments/hps_demo.txt
